@@ -1,4 +1,4 @@
-Freecodecamp -Johnsmilga tutorial - self learning
+// Freecodecamp -Johnsmilga tutorial - self learning
 
 const amount = 2
 
