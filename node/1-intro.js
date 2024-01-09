@@ -1,3 +1,5 @@
+Freecodecamp -Johnsmilga tutorial - self learning
+
 const amount = 2
 
 if(amount < 12){
