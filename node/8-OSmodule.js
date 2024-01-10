@@ -1,4 +1,4 @@
-// OS module
+// OS module  -- the os module in Node.js provides a way to interact with the operating system
 
 const os = require('os')
 
