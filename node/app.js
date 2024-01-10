@@ -1,9 +1,11 @@
 //  Modules can be loaded into program by using the required function
 const names = require('./4-names.js')
+const sayHi = require('./5-utils.js')
+const data = require('./6-alternative-syntax')
+
+console.log(data)
 
 console.log(names)
-
-const sayHi = require('./5-utils.js')
 
 console.log(sayHi)
 
