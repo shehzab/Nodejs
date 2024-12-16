@@ -18,9 +18,7 @@ It's a helpful guide to quickly learn or revisit essential Nodejs topics and con
 - Understand error handling, child processes, and event-driven programming in Node.js
 
 
-## Usage
 
-Refer to the **Node_JS_Notes.md** file for detailed explanations and examples to aid your learning. Feel free to modify and experiment with the code snippets to deepen your understanding.
 
 ## Contributing
 
